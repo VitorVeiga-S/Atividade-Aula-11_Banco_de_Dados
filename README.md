@@ -1,5 +1,7 @@
 # Atividade - Aula 11: Banco de Dados
 
+## Atividade em Duplas
+
 ## Sobre a atividade
 
 Nesta atividade, foi realizada a administração de um banco de dados de uma loja fictícia chamada Loja SENAI, utilizando o MySQL Workbench.
