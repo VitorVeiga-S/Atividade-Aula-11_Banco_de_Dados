@@ -1,6 +1,9 @@
 # Atividade - Aula 11: Banco de Dados
 
 ## Atividade em Duplas
+### Integrantes:
+- Vitor Andrade Veiga da Silva
+- Enzo Ferrari Lima
 
 ## Sobre a atividade
 
